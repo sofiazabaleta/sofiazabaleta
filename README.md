@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="100%" src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif">
 
 <h3 align="center">Hello! 👋, I am Sofia</h3>
-<h3 align="center">an enthusiastic Junior Front-End developer with an inquiring mind. love to add value ⚡️</h3>
+<h3 align="center">an ambitious Junior Front-End developer with an inquiring mind. i've been coding for more than 1 year! love to add value ⚡️</h3>
 <img align="right" alt="Yumeko" src="https://media.tenor.com/6tL86NLhi1YAAAAC/yumeko-kakegurui.gif">
 
 
